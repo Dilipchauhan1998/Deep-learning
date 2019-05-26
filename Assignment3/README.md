@@ -34,15 +34,15 @@
 
 ` 	# task1 
 
-    		python3 CorePoint.py --phase=train 
+    	python3 CorePoint.py --phase=train 
     
   	# task2
   
-    		python3 main.py --phase=train
+    	python3 main.py --phase=train
     
- 	 # task3
+ 	# task3
   
-   		 python3  task1.py
-   		 python3  task2.py
+   	python3  task1.py
+   	python3  task2.py
  
 
