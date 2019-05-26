@@ -5,3 +5,11 @@
    
    3. Layer API - A Simple Neural Network
 
+## Assignemnt 2
+   1. Foundations of Convolutional Neural Networks
+   
+   2. Multi-Head Classification
+   
+   3. Network Visualization
+
+
