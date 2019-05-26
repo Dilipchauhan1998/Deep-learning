@@ -10,7 +10,7 @@
 	python3 LINE_DATASET.py     #for line LINE_DATASET
     	python3 MNIST.py            #for MNIST dataset
 	
-# required library :
+# required libraries :
 
 	tensorflow
 	numpy
