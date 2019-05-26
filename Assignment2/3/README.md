@@ -16,6 +16,11 @@
         matplotlib
         sckit learn
         
+ # for running
+ 
+        #specify the input image directory and output directory to save the activation 
+        python3 LINE_DATASET.py
+        
         
     
         
