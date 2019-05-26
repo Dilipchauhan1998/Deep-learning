@@ -1,48 +1,48 @@
 # Task
   
-  1. object detection and localization
-  2. Given the image of eyes generate the mask of iris
-  3. CorePoint Detection in fingerprint
+ 	 1. object detection and localization
+  	 2. Given the image of eyes generate the mask of iris
+  	 3. CorePoint Detection in fingerprint
   
 # programming Language
 
-  python 3.5
+ 	 python 3.5
   
 # dependencies
 
-  tensorflow
+ 	 tensorflow
 
-	matplotlib
+	 matplotlib
 
-	numpy
+	 numpy
 
-	scikit-learn	
+	 scikit-learn	
   
-  os
+  	 os
   
-  glob
+  	 glob
   
-  argparse
+  	 argparse
   
-  opencv
+ 	 opencv
   
-  sklearn
+  	 sklearn
   
-  glob
+  	 glob
   
 # for running 
 
-` # task1 
+` 	# task1 
 
-    python3 CorePoint.py --phase=train 
+    		python3 CorePoint.py --phase=train 
     
-  # task2
+  	# task2
   
-    python3 main.py --phase=train
+    		python3 main.py --phase=train
     
-  # task3
+ 	 # task3
   
-    python3  task1.py
-    python3  task2.py
+   		 python3  task1.py
+   		 python3  task2.py
  
 
