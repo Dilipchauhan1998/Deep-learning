@@ -6,6 +6,16 @@
         python 3.5
         
 # Required libraries
+
+        keras  2.1.2
+        tensorflow 1.11.1
+        open -cv 
+        numpy
+        os
+        glob
+        matplotlib
+        sckit learn
+        
         
     
         
