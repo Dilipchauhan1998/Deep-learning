@@ -11,16 +11,27 @@
 # dependenies
 
   tensorflow 1.11.0
+  
   numpy
+  
   matplotlib
+  
   keras 2.1.2
+  
   open cv
+  
   os
+  
   scikitplot
+  
   keras  2.1.2
+  
   open -cv
+  
   glob
+  
   matplotlib
+  
   sckit learn
   
 # for running
