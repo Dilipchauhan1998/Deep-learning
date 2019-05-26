@@ -28,7 +28,7 @@
   ## task 1
   
       python3 LINE_DATASET.py     #for line LINE_DATASET
-	    python3 MNIST.py            #for MNIST dataset
+      python3 MNIST.py            #for MNIST dataset
       
   ## task 2
   
