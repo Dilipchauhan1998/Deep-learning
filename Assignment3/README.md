@@ -32,13 +32,13 @@
   
 # for running 
 
-` 	# task1 
+` 	# task1
 
-    	python3 CorePoint.py --phase=train 
+	python3 CorePoint.py --phase=train 
     
   	# task2
-  
-    	python3 main.py --phase=train
+  	
+	python3 main.py --phase=train
     
  	# task3
   
